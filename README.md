@@ -88,7 +88,7 @@ Hugging Face `Trainer`. To handle the imbalance, the loss is a **class-weighted 
 
 **Tuning results (screenshot):** all 12 trials sorted by validation F1, best trial highlighted.
 
-![Optuna trials](images/tuning_table.png)
+![Optuna trials](images.zip/tuning_table.png)
 
 | Trial | Val F1 | LR | Batch | Epochs | Weight decay | Warmup | Val precision | Val recall | Time (s) |
 |---|---|---|---|---|---|---|---|---|---|
