@@ -1,0 +1,13 @@
+# model checkpoints, runs, caches (do not commit)
+outputs/
+best_model/
+*.bin
+*.safetensors
+*.pt
+images.zip
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/

@@ -1,0 +1,12 @@
+torch
+transformers>=4.46
+datasets
+accelerate
+optuna
+shap
+scikit-learn
+pandas
+numpy
+matplotlib
+tabulate
+tqdm
